@@ -81,12 +81,14 @@ body{
 } 
 
 .right-name{
-    color: #3CA208; 
-    font-size: 18px;
+    color: #0FC500; 
+    font-size: 16px;
+    font-weight: 500;
+
 }
 
 .left-name{
-    color: #3A494E;
+    color: #565656;
     font-size: 16px;
     font-weight: 700;
 }
@@ -102,3 +104,25 @@ body{
     margin-top:21px; 
     margin-bottom: 41px;
 }
+
+.nav-style:hover{
+    border-bottom: 3px solid #39771D;
+}
+
+.nav-color{
+    color: #565656;
+    
+}
+.nav-style{
+    color: #39771D;
+    font-size: 12px;
+    font-weight: 700;
+}
+.secondpart{
+   
+   
+}
+.navitem{
+    margin-top: 5px;
+}
+
